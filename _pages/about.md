@@ -9,18 +9,16 @@ redirect_from:
   - /about.html
 ---
 
-I just finished my PhD in the Department of Biological Engineering at MIT.
-I worked in [Eric Alm's lab](http://almlab.mit.edu), studying the relationship between the human microbiome and health and disease.
-More generally, I'm interested in applying **personalized medicine approaches for public health**.
-I'm passionate about making local impact to move our society toward a more just ideal.
-That means learning about and working for increased **diversity and equity in STEM** and **technical approaches for social good**.
+I am a Machine Learning engineer working at [Kenome](https://www.kenome.io) under the guidance of Founder/CEO, [Prof. Partha Talukdar](http://talukdar.net/) (IISc). Currently, I am working in the field of Natural Language Processing and Knowledge Graphs. The journey has been amazing!
 
-When I'm not in lab doing [research](research/), I spend my time working to improve the BE Department student experience as one of the [BE Graduate Student Board](http://begradboard.mit.edu/) Diversity co-Chairs and as a member of the [BE REFS](http://berefs.com).
-As Diversity co-Chair, I'm especially proud of having co-started the [BE Application Assistance Program](http://be.mit.edu/academic-programs/prospective-graduate/beaap) and co-written the BE Department's [Community Values Statement](http://be.mit.edu/about/department-values-statement).
-Through REFS, I've learned **conflict management** skills that have positively impacted almost every aspect of my life.
+**Fascinating fact: I was the first full-time employee here.** This gave me an exceptional opportunity to be involved in constructing an entire data pipeline and deliver finished product. Consequently, I am directly involved in building core products at Kenome. An AI product has numerous components working in tandem and a visibility of this kind at such an early stage of the career has been instrumental to my growth. Areas that I have contributed are: 
+* Recommendation Engine
+* Relation Extractions
+* Entity Extractions
+* Knowledge Graphs.
 
-When I'm not doing those things, I'm probably outside chasing after a **frisbee**.
-Through my involvement in the sport first in [Cambodia](http://www.phnompenhpost.com/post-weekend/unconventional-sport-finds-unlikely-home-cambodia) and now on [MIT's women's team](http://scripts.mit.edu/~womens-ult/), I've become passionate about sport's ability to drive [social change](https://www.facebook.com/youthultimateproject) and push [gender equity](https://thenib.com/the-sports-wage-gap-needs-to-close) forward.
+Also, I love to create tutorial videos for the community. They are made with the goal of helping other fellow developers understand the concepts or resolve their issues. Hence, they are kept very short with easy-to-understand script.
 
-Before moving to Boston, I lived for a year in **Cambodia** working for [Engineering World Health](http://www.ewh.org/) as a [Luce Scholar](http://www.hluce.org/lsprogram.aspx).
-Before that, I studied biomedical engineering at Columbia University.
+In my free time:
+* I love to play Cricket and Table Tennis.
+* Read research papers and blogs (thanks to fast-paced developments). Yes, I am a geek. :P
