@@ -1,10 +1,12 @@
 # main links links
 main:
+  - title: "Data Science Resources"
+    url: /ds/
   # - title: "Blog"
   #   url: /blog/
 
-  # - title: "Research"
-  #   url: /research/
+  - title: "Research"
+    url: /research/
 
   # - title: "Publications"
   #   url: /publications/
