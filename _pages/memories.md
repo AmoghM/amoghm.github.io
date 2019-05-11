@@ -18,7 +18,7 @@ author_profile: true
 	<img src="/images/memories/skydive.jpg" width="42" height="42" display='block'>
 </div>
  -->
-<p><b>KENOME</b></p>
+<p><b>Software Developer (Machine Learning), KENOME</b></p>
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around; width: 128%">
         <div class="" style="display: inline-block;width: 414%">
             <img src="/images/memories/Kenome/meeting.jpg" style="width:84%;height: 95%">
@@ -30,7 +30,7 @@ author_profile: true
 
 
 <br>
-<p><b>Sprinklr</b></p>
+<p><b>Software Engineer, Sprinklr</b></p>
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around; width: 128%">
         <div class="" style="display: inline-block;">
             <img src="/images/memories/Sprinklr/sprinklr-diwali.jpg" style="width:60%;height: 90%">
@@ -42,7 +42,7 @@ author_profile: true
 
 
 <br>
-<p> <b>University of Auckland</b></p>
+<p> <b>Research Intern, University of Auckland</b></p>
 <div id="uoa1" style="overflow: hidden; display: flex; justify-content:space-around; width: 118%">
         <div class="" style="display: inline-block;">
             <img src="/images/memories/UOA/RnV.jpg" alt="skydive" style="width:72% ;height: 100%;">
