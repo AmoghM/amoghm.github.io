@@ -19,12 +19,12 @@ author_profile: true
 </div>
  -->
 <p><b>KENOME</b></p>
-<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around; width: 414%">
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/Kenome/meeting.jpg" style="width:100%;">
+            <img src="/images/memories/Kenome/meeting.jpg" style="width:84%;height: 89%">
         </div>
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/Kenome/target-1.jpg" hspace="40" alt="skydive" style="width:100%">
+            <img src="/images/memories/Kenome/target-1.jpg" hspace="40" alt="skydive" style="width:80%;height: 89%">
         </div>
 </div>
 
@@ -45,10 +45,10 @@ author_profile: true
 <p> <b>University of Auckland</b></p>
 <div id="uoa1" style="overflow: hidden; display: flex; justify-content:space-around;">
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/UOA/RnV.jpg" alt="skydive" style="width:100%">
+            <img src="/images/memories/UOA/RnV.jpg" alt="skydive" style="width: 2250px;height: 400px;">
         </div>
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/UOA/paper-presentation-1.jpg" hspace="40" style="width:100%;">
+            <img src="/images/memories/UOA/poster.png" hspace="40" style="width:100%;">
         </div>
 </div>
 <br>
