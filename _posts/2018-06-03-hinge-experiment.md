@@ -1,6 +1,6 @@
 ---
 title: Hinge online dating experiment
-permalink: /posts/2018/06/hinge-experiment
+<!-- permalink: /posts/2018/06/hinge-experiment -->
 date: 2018-06-16
 tags:
     - data-science
