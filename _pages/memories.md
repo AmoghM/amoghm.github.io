@@ -24,42 +24,42 @@ author_profile: true
             <img src="/images/memories/Kenome/meeting.jpg" hspace="10" style="width:100%;">
         </div>
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/target-1.jpg" hspace="40" alt="skydive" style="width:100%">
+            <img src="/images/memories/Kenome/target-1.jpg" hspace="40" alt="skydive" style="width:100%">
         </div>
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/target-solo2.jpg" hspace="40" alt="skydive" style="width:100%">
+            <img src="/images/memories/Kenome/target-solo2.jpg" hspace="40" alt="skydive" style="width:100%">
         </div>
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/target-solo1.jpg" hspace="40" alt="skydive" style="width:100%">
+            <img src="/images/memories/Kenome/target-solo1.jpg" hspace="40" alt="skydive" style="width:100%">
         </div>
 </div>
 
 
-</br>
+<br>
 <p><b>Sprinklr</b></p>
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/sprinklr-diwali.jpg" hspace="10" style="width:100%;">
+            <img src="/images/memories/Sprinklr/sprinklr-diwali.jpg" hspace="10" style="width:100%;">
         </div>
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/sprinklr-pool.jpg" hspace="40" alt="skydive" style="width:100%">
+            <img src="/images/memories/Sprinklr/sprinklr-pool.jpg" hspace="40" alt="skydive" style="width:100%">
         </div>
 </div>
 
 
-</br>
+<br>
 <p> <b>University of Auckland</b></p>
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/paper-presentation-1.jpg" hspace="10" style="width:100%;">
+            <img src="/images/memories/UOA/paper-presentation-1.jpg" hspace="10" style="width:100%;">
         </div>
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/paper-presentation-2.jpg" hspace="40" alt="skydive" style="width:100%">
+            <img src="/images/memories/UOA/paper-presentation-2.jpg" hspace="40" alt="skydive" style="width:100%">
         </div>
          <div class="" style="display: inline-block;">
-            <img src="/images/memories/skydive.jpg" hspace="40" alt="skydive" style="width:100%">
+            <img src="/images/memories/UOA/skydive.jpg" hspace="40" alt="skydive" style="width:100%">
         </div>
          <div class="" style="display: inline-block;">
-            <img src="/images/memories/nz-sky-tower-2.jpg" hspace="40" alt="skydive" style="width:100%">
+            <img src="/images/memories/UOA/nz-sky-tower-2.jpg" hspace="40" alt="skydive" style="width:100%">
         </div>
 </div>
