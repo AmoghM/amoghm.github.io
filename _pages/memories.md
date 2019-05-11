@@ -7,12 +7,13 @@ title: "Memories"
 author_profile: true
 ---
 
-<div>
-	<p> CISCO
-	<img src="/images/memories/cisco.jpg">
-	<img src="/images/memories/party.jpg">
+div>
+	<p> INTERNSHIP @CISCO SYSTEM</p>
+	<img src="/images/memories/cisco.jpg" width="42" height="42">
+	<img src="/images/memories/party.jpg" width="42" height="42">
 </div>
 
-<div>
-	<img src="/images/memories/skydive.jpg">
+<div> 
+	<p> University of Auckland</p>
+	<img src="/images/memories/skydive.jpg" width="42" height="42" display='block'>
 </div>
