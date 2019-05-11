@@ -21,7 +21,7 @@ author_profile: true
 <p><b>KENOME</b></p>
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/Kenome/meeting.jpg" hspace="10" style="width:100%;">
+            <img src="/images/memories/Kenome/meeting.jpg" style="width:100%;">
         </div>
         <div class="" style="display: inline-block;">
             <img src="/images/memories/Kenome/target-1.jpg" hspace="40" alt="skydive" style="width:100%">
@@ -33,7 +33,7 @@ author_profile: true
 <p><b>Sprinklr</b></p>
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/Sprinklr/sprinklr-diwali.jpg" hspace="10" style="width:100%;">
+            <img src="/images/memories/Sprinklr/sprinklr-diwali.jpg" style="width:100%;">
         </div>
         <div class="" style="display: inline-block;">
             <img src="/images/memories/Sprinklr/sprinklr-pool.jpg" hspace="40" alt="skydive" style="width:100%">
@@ -45,16 +45,16 @@ author_profile: true
 <p> <b>University of Auckland</b></p>
 <div id="uoa1" style="overflow: hidden; display: flex; justify-content:space-around;">
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/UOA/poster.png" hspace="40" alt="skydive" style="width:100%">
+            <img src="/images/memories/UOA/RnV.png" alt="skydive" style="width:100%">
         </div>
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/UOA/paper-presentation-1.jpg" hspace="10" style="width:100%;">
+            <img src="/images/memories/UOA/paper-presentation-1.jpg" hspace="40" style="width:100%;">
         </div>
 </div>
 <br>
 <div id="uoa2" style="overflow: hidden; display: flex; justify-content:space-around;">
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/UOA/skydive.jpg" hspace="10" style="width:100%;">
+            <img src="/images/memories/UOA/skydive.jpg" style="width:100%;">
         </div>
         <div class="" style="display: inline-block;">
             <img src="/images/memories/UOA/nz-skyline.jpg" hspace="40" alt="skydive" style="width:100%">
