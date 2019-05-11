@@ -8,10 +8,11 @@ author_profile: true
 ---
 
 <div>
-	<img src="/images/2018-03-09-boxplots-in-python_files/2018-03-09-boxplots-in-python_4_1.png">
-	<img src="/images/2018-03-09-boxplots-in-python_files/2018-03-09-boxplots-in-python_4_1.png"
+	<p> CISCO
+	<img src="/images/memories/cisco.jpg">
+	<img src="/images/memories/party.jpg">
 </div>
 
 <div>
-	<img src="/images/2018-03-09-boxplots-in-python_files/2018-03-09-boxplots-in-python_4_1.png"
+	<img src="/images/memories/skydive.jpg">
 </div>
