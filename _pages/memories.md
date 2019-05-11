@@ -21,9 +21,9 @@ author_profile: true
 
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/cisco.jpg" style="width:100%;">
+            <img src="/images/memories/cisco.jpg" hspace="10" style="width:100%;">
         </div>
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/skydive.jpg" alt="skydive" style="width:100%">
+            <img src="/images/memories/skydive.jpg" hspace="40" alt="skydive" style="width:100%">
         </div>
 </div>
