@@ -25,9 +25,7 @@ author_profile: true
         </div>
         <div class="" style="display: inline-block;">
             <img src="/images/memories/Kenome/target-1.jpg" hspace="40" alt="skydive" style="width:100%">
-        </div>
-        <div class="" style="display: inline-block;">
-            <img src="/images/memories/Kenome/target-solo.jpg" hspace="40" alt="skydive" style="width:100%">
+        </div>s
         </div>
 </div>
 
@@ -46,18 +44,18 @@ author_profile: true
 
 <br>
 <p> <b>University of Auckland</b></p>
-<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
+<div id="uoa1" style="overflow: hidden; display: flex; justify-content:space-around;">
         <div class="" style="display: inline-block;">
             <img src="/images/memories/UOA/paper-presentation-1.jpg" hspace="10" style="width:100%;">
         </div>
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/UOA/paper-presentation-2.jpg" hspace="40" alt="skydive" style="width:100%">
+            <img src="/images/memories/UOA/poster.jpg" hspace="40" alt="skydive" style="width:100%">
         </div>
          <div class="" style="display: inline-block;">
             <img src="/images/memories/UOA/skydive.jpg" hspace="40" alt="skydive" style="width:100%">
         </div>
 </div>
-<div>
+<div id="uoa2" style="overflow: hidden; display: flex; justify-content:space-around;">
          <div class="" style="display: inline-block;">
             <img src="/images/memories/UOA/nz-sky-tower.jpg" hspace="40" alt="skydive" style="width:100%">
         </div>
