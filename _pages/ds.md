@@ -1,7 +1,7 @@
 ---
 #layout: archive
 permalink: /ds/
-date: 2018-06-16
+date: 2019-05-11
 tags: [data science, machine learning, nlp, tutorial]
 title: "Data Science Resources"
 author_profile: true

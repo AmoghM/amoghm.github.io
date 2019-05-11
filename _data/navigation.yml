@@ -6,6 +6,8 @@ main:
   - title: "Blog"
     url: /blog/
 
+  - title: "Memories"
+    url: /memories/
   # - title: "Research"
   #   url: /research/
 
