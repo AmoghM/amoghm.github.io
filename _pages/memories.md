@@ -21,14 +21,9 @@ author_profile: true
 
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/cisco.jpg">
+            <img src="/images/memories/cisco.jpg" style="width:100%; hspace=10">
         </div>
-
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/party.jpg" alt="Forest" style="width:50%">
-        </div>
-
-        <div class="" style="display: inline-block;">
-            <img src="/images/memories/skydive.jpg" alt="Mountains" style="width:50%">
+            <img src="/images/memories/skydive.jpg" alt="Mountains" style="width:100% hspace=10">
         </div>
 </div>
