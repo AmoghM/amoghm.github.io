@@ -19,8 +19,8 @@ author_profile: true
 </div>
  -->
 <p><b>KENOME</b></p>
-<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around; width: 414%">
-        <div class="" style="display: inline-block;">
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around; width: 128%">
+        <div class="" style="display: inline-block;width: 414%">
             <img src="/images/memories/Kenome/meeting.jpg" style="width:84%;height: 89%">
         </div>
         <div class="" style="display: inline-block;">
