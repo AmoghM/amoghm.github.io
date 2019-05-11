@@ -1,7 +1,7 @@
 ---
 title: "Elasticsearch in Python"
 date: 2019-03-30
-tags: [YouTube, elasticsearch, machine-learning, python, education]
+tags: [YouTube, elasticsearch, python, tutorial]
 excerpt: "Short, simple and easy to understand videos on elasticsearch in python created by me."
 ---
 <!-- ## Elasticsearch in Python (total 8 videos) -->
