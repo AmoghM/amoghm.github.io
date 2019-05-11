@@ -18,18 +18,17 @@ author_profile: true
 	<img src="/images/memories/skydive.jpg" width="42" height="42" display='block'>
 </div>
  -->
-<link href="/_sass/memories.scss" rel="stylesheet"></link>
 
-<div class="row">
-  <p> TESTING IMAGE </p></br>
-  <div class="column">
-    <img src="/images/memories/cisco.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/memories/party.jpg" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/memories/skydive.jpg" alt="Mountains" style="width:100%">
-    <img src="/images/memories/skydive.jpg" alt="Mountains" style="width:100%">
-  </div>
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
+        <div class="" style="display: inline-block;">
+            <img src="/images/memories/cisco.jpg">
+        </div>
+
+        <div class="" style="display: inline-block;">
+            <img src="/images/memories/party.jpg" alt="Forest" style="width:50%">
+        </div>
+
+        <div class="" style="display: inline-block;">
+            <img src="/images/memories/skydive.jpg" alt="Mountains" style="width:50%">
+        </div>
 </div>
