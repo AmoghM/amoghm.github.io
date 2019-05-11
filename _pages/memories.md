@@ -32,31 +32,31 @@ author_profile: true
 <br>
 <p><b>Sprinklr</b></p>
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around; width: 128%">
-        <div class="" style="display: inline-block;width: 414%">
+        <div class="" style="display: inline-block;">
             <img src="/images/memories/Sprinklr/sprinklr-diwali.jpg" style="width:60%;height: 90%">
         </div>
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/Sprinklr/sprinklr-pool.jpg" hspace="40" alt="skydive" style="width:100%">
+            <img src="/images/memories/Sprinklr/sprinklr-pool.jpg" alt="skydive" style="width:60%;height: 90%">
         </div>
 </div>
 
 
 <br>
 <p> <b>University of Auckland</b></p>
-<div id="uoa1" style="overflow: hidden; display: flex; justify-content:space-around;">
+<div id="uoa1" style="overflow: hidden; display: flex; justify-content:space-around; width: 118%">
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/UOA/RnV.jpg" alt="skydive" style="width: 2250px;height: 400px;">
+            <img src="/images/memories/UOA/RnV.jpg" alt="skydive" style="width:72% ;height: 100%;">
         </div>
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/UOA/poster.png" hspace="40" style="width:100%;">
+            <img src="/images/memories/UOA/poster.png" hspace="40" style="width:90%;height: 100%">
         </div>
 </div>
 <br>
-<div id="uoa2" style="overflow: hidden; display: flex; justify-content:space-around;">
+<div id="uoa2" style="overflow: hidden; display: flex; justify-content:space-around; width: 118%">
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/UOA/skydive.jpg" style="width:100%;">
+            <img src="/images/memories/UOA/skydive.jpg" style="width:100%;height:100%">
         </div>
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/UOA/nz-skyline.jpg" hspace="40" alt="skydive" style="width:100%">
+            <img src="/images/memories/UOA/nz-skyline.jpg" hspace="40" alt="skydive" style="width:100%;height: 100%">
         </div>
 </div>
