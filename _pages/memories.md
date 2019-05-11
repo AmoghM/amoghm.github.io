@@ -21,19 +21,19 @@ author_profile: true
 <p><b>KENOME</b></p>
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around; width: 128%">
         <div class="" style="display: inline-block;width: 414%">
-            <img src="/images/memories/Kenome/meeting.jpg" style="width:84%;height: 89%">
+            <img src="/images/memories/Kenome/meeting.jpg" style="width:84%;height: 95%">
         </div>
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/Kenome/target-1.jpg" hspace="40" alt="skydive" style="width:80%;height: 89%">
+            <img src="/images/memories/Kenome/target-1.jpg" hspace="20" alt="skydive" style="width:80%;height: 95%">
         </div>
 </div>
 
 
 <br>
 <p><b>Sprinklr</b></p>
-<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
-        <div class="" style="display: inline-block;">
-            <img src="/images/memories/Sprinklr/sprinklr-diwali.jpg" style="width:100%;">
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around; width: 128%">
+        <div class="" style="display: inline-block;width: 414%">
+            <img src="/images/memories/Sprinklr/sprinklr-diwali.jpg" style="width:60%;height: 90%">
         </div>
         <div class="" style="display: inline-block;">
             <img src="/images/memories/Sprinklr/sprinklr-pool.jpg" hspace="40" alt="skydive" style="width:100%">
