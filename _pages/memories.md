@@ -27,10 +27,7 @@ author_profile: true
             <img src="/images/memories/Kenome/target-1.jpg" hspace="40" alt="skydive" style="width:100%">
         </div>
         <div class="" style="display: inline-block;">
-            <img src="/images/memories/Kenome/target-solo2.jpg" hspace="40" alt="skydive" style="width:100%">
-        </div>
-        <div class="" style="display: inline-block;">
-            <img src="/images/memories/Kenome/target-solo1.jpg" hspace="40" alt="skydive" style="width:100%">
+            <img src="/images/memories/Kenome/target-solo.jpg" hspace="40" alt="skydive" style="width:100%">
         </div>
 </div>
 
@@ -59,7 +56,12 @@ author_profile: true
          <div class="" style="display: inline-block;">
             <img src="/images/memories/UOA/skydive.jpg" hspace="40" alt="skydive" style="width:100%">
         </div>
+</div>
+<div>
          <div class="" style="display: inline-block;">
-            <img src="/images/memories/UOA/nz-sky-tower-2.jpg" hspace="40" alt="skydive" style="width:100%">
+            <img src="/images/memories/UOA/nz-sky-tower.jpg" hspace="40" alt="skydive" style="width:100%">
+        </div>
+        <div class="" style="display: inline-block;">
+            <img src="/images/memories/UOA/nz-skyline.jpg" hspace="40" alt="skydive" style="width:100%">
         </div>
 </div>
