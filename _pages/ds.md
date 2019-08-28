@@ -8,9 +8,9 @@ author_profile: true
 ---
 This is a compilation of (mostly) all the informative resources that I've come across in recent years.
 ## Deep Learning:
-* [NPTEL course on Deep learning by Prof. Mitesh Khapra, IIT-M](https://www.youtube.com/playlist?list=PLH-xYrxjfO2VsvyQXfBvsQsufAzvlqdg9)
+<!-- * [NPTEL course on Deep learning by Prof. Mitesh Khapra, IIT-M](https://www.youtube.com/playlist?list=PLH-xYrxjfO2VsvyQXfBvsQsufAzvlqdg9) -->
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/IIT-M-Deep-learning.png)](https://www.youtube.com/playlist?list=PLH-xYrxjfO2VsvyQXfBvsQsufAzvlqdg9) -->
-<br>
+<!-- <br> -->
 
 * [Stanford course on Deep Learning using Tensorflow](https://web.stanford.edu/class/cs20si/syllabus.html)
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/Stanford-TensorFlow.png)](https://web.stanford.edu/class/cs20si/syllabus.html) -->
@@ -35,13 +35,15 @@ This is a compilation of (mostly) all the informative resources that I've come a
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/nlp-progress.png)](http://nlpprogress.com/) -->
 <br>
 
-* [Neural Network for NLP from CMU - 2017. BY: Prof. Graham Neubig](http://phontron.com/class/nn4nlp2017/schedule.html)
+* [Neural Network for NLP from CMU- By: Prof. Graham Neubig](https://www.youtube.com/user/neubig/playlists)
+<br>
+<!-- * [Neural Network for NLP from CMU - 2017. BY: Prof. Graham Neubig](http://phontron.com/class/nn4nlp2017/schedule.html) -->
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/CMU-NLP-2017.png)](http://phontron.com/class/nn4nlp2017/schedule.html) -->
 <br>
 
-* [Prof. Graham Neubig's teaching on NLP, Machine Translation, Non-parametric Bayesian](http://www.phontron.com/teaching.php)
+<!-- * [Prof. Graham Neubig's teaching on NLP, Machine Translation, Non-parametric Bayesian](http://www.phontron.com/teaching.php) -->
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/Graham-Neubig.png)](http://www.phontron.com/teaching.php) -->
-<br>
+<!-- <br> -->
 
 * [Course videos on Neural Network in NLP - 2017,18,19](https://www.youtube.com/results?search_query=neural+network+for+nlp+cmu&page=&utm_source=opensearch)
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/Youtube-Graham-Neubig.png)](https://www.youtube.com/results?search_query=neural+network+for+nlp+cmu&page=&utm_source=opensearch) -->
@@ -63,13 +65,13 @@ This is a compilation of (mostly) all the informative resources that I've come a
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/Dan-Jurafsky.png)](https://web.stanford.edu/~jurafsky/slp3/) -->
 <br>
 
-* [Oxford University and Deep Mind course on NLP](https://github.com/oxford-cs-deepnlp-2017)
+<!-- * [Oxford University and Deep Mind course on NLP](https://github.com/oxford-cs-deepnlp-2017) -->
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/oxford-nlp-github.png)](https://github.com/oxford-cs-deepnlp-2017) -->
-<br>
+<!-- <br> -->
 
-* [YouTube video of Oxford University and Deep Mind course on NLP](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
+<!-- * [YouTube video of Oxford University and Deep Mind course on NLP](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm) -->
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/oxford-nlp.png)](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm) -->
-<br>
+<!-- <br> -->
 
-* [Computational Linguistics from University of Maryland by Prof. Jordan Boyd-Garber](ttps://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i)
+<!-- * [Computational Linguistics from University of Maryland by Prof. Jordan Boyd-Garber](ttps://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) -->
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/Computational-Linguistics-UMD.png)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) -->
