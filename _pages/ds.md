@@ -6,7 +6,8 @@ tags: [data science, machine learning, nlp, tutorial]
 title: "Data Science Resources"
 author_profile: true
 ---
-This is a compilation of (mostly) all the informative resources that I've come across in recent years.
+Below is a compilation of the resources I personally recommend for students interested to understand the fundamentals of Deep Learning and NLP. I find them to be most comprehensive and the best among all. 
+
 ## Deep Learning:
 <!-- * [NPTEL course on Deep learning by Prof. Mitesh Khapra, IIT-M](https://www.youtube.com/playlist?list=PLH-xYrxjfO2VsvyQXfBvsQsufAzvlqdg9) -->
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/IIT-M-Deep-learning.png)](https://www.youtube.com/playlist?list=PLH-xYrxjfO2VsvyQXfBvsQsufAzvlqdg9) -->
@@ -35,23 +36,23 @@ This is a compilation of (mostly) all the informative resources that I've come a
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/nlp-progress.png)](http://nlpprogress.com/) -->
 <br>
 
-* [Neural Network for NLP from CMU- By: Prof. Graham Neubig](https://www.youtube.com/user/neubig/playlists)
+* [Neural Network for NLP from CMU. By: Prof. Graham Neubig](https://www.youtube.com/user/neubig/playlists)
 <br>
 <!-- * [Neural Network for NLP from CMU - 2017. BY: Prof. Graham Neubig](http://phontron.com/class/nn4nlp2017/schedule.html) -->
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/CMU-NLP-2017.png)](http://phontron.com/class/nn4nlp2017/schedule.html) -->
-<br>
+<!-- <br> -->
 
 <!-- * [Prof. Graham Neubig's teaching on NLP, Machine Translation, Non-parametric Bayesian](http://www.phontron.com/teaching.php) -->
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/Graham-Neubig.png)](http://www.phontron.com/teaching.php) -->
 <!-- <br> -->
 
-* [Course videos on Neural Network in NLP - 2017,18,19](https://www.youtube.com/results?search_query=neural+network+for+nlp+cmu&page=&utm_source=opensearch)
+<!-- * [Course videos on Neural Network in NLP - 2017,18,19](https://www.youtube.com/results?search_query=neural+network+for+nlp+cmu&page=&utm_source=opensearch) -->
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/Youtube-Graham-Neubig.png)](https://www.youtube.com/results?search_query=neural+network+for+nlp+cmu&page=&utm_source=opensearch) -->
-<br>
+<!-- <br> -->
 
-* [Stanford University CS224d/CS224n NLP course by Prof. Christopher Manning](http://web.stanford.edu/class/cs224n/)
+<!-- * [Stanford University CS224d/CS224n NLP course by Prof. Christopher Manning](http://web.stanford.edu/class/cs224n/) -->
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/Stanford_CS224-d.png)](http://web.stanford.edu/class/cs224n/) -->
-<br>
+<!-- <br> -->
 
 * [Youtube video of CS224d/CS224n NLP course by Prof. Christopher Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 <!-- [![alt text]({{ site.url }}{{ site.baseurl }}/images/courses/Stanford_CS224-d.png)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) -->
